@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפש מספרה לגברים בישראל שמבינה את הסטייל שלך? לפי הספר מציעה תספורות לגברים ברמה הגבוהה ביותר עם קביעת תור מהירה ונוחה אונליין. בוא תגלה את ההבדל.
+
+### שירותים
+https://example.com/services
+גילוח, עיצוב זקן, תספורת גברים קרוב אליי ועוד — בלפי הספר תמצא את מלוא שירותי הברבר תחת קורת גג אחת. כל שירות מותאם אישית לסטייל ולאישיות שלך. קבע תור עכשיו.
+
+### אודות
+https://example.com/about
+לפי הספר היא לא סתם מספרה לגברים בישראל — היא חוויה שלמה של טיפוח, סטייל ואווירה ייחודית. הכר את הצוות שמאחורי המספרה ותבין למה גברים חוזרים שוב ושוב. הסיפור שלנו מחכה לך.
+
+### צור קשר
+https://example.com/contact
+קביעת תור מספרה לגברים מעולם לא הייתה פשוטה כל כך — צור קשר עם לפי הספר ותבחר את הזמן שמתאים לך. מחפש תספורת גברים קרוב אליך? אנחנו כאן וממתינים לך. דבר איתנו עכשיו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
